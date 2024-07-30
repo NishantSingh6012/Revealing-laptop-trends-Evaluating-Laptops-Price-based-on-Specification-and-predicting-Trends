@@ -55,8 +55,6 @@ For this dataset we can see that we have null values/NaN values which we will se
 
 ## Why Understanding about the data is important because 
 
-<img width="478" alt="image" src="/Users/nishantsingh/Documents/GitHub/Revealing-laptop-trends-Evaluating-Laptops-Price-based-on-Specification-and-predicting-Trends/images/image.png">
-
 * **Data Analysis Strategy**: Knowing that the dataset contains both categorical and continuous data allows us to plan our data analysis strategy accordingly. 
 * **Feature Engineering**: Understanding the types of data present in the dataset is crucial for feature engineering.
 * **Model Selection**: The presence of both categorical and continuous data influences the choice of machine learning algorithms and models. Some algorithms, like decision trees or random forests, naturally handle categorical data, while others may require preprocessing steps. Being aware of the data types helps us select the most appropriate models for our analysis.
