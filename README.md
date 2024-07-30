@@ -55,6 +55,7 @@ For this dataset we can see that we have null values/NaN values which we will se
 
 ## Why Understanding about the data is important because 
 
+
  
 
 
