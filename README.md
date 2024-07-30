@@ -53,6 +53,10 @@ For this dataset we can see that we have null values/NaN values which we will se
 
 * This shows that we have unique laptop models from each brand and no duplicates in our dataset
 
+## Why Understanding about the data is important because 
+
+ 
+
 
 
 
